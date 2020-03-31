@@ -18,6 +18,7 @@ function App() {
         >
           Learn React and Typescript
         </a>
+        <p>Lite extra text.....</p>
       </header>
     </div>
   );
